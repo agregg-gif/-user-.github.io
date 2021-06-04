@@ -1,5 +1,6 @@
 # Projects and Labs in CIT281
 # ![photoforGitHub](https://user-images.githubusercontent.com/84542325/120869976-8a18ce80-c54c-11eb-9a18-ea06c3ca886d.jpeg)
+# Lab 1
   goal: set up personal computer and gain an understnding of software tools like terminal and shell commands
 # Lab 2
   goal: experiment with CLI commands for directory and file manipulation as well as git commands
